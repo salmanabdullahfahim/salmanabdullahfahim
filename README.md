@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanabdullahfahim&label=Profile%20views&color=0e75b6&style=flat" alt="salmanabdullahfahim" /> </p>
 
-- 🌱 I’m currently learning **NextJs,C++,DSA**
+- 🌱 I’m currently learning **NextJs,Redux,C++,DSA**
 
 - 💬 Ask me about **React, Express Js**
 
