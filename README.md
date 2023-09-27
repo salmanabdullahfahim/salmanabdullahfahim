@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Salman Abdullah Fahim</h1>
+<h1 align="center">Hi 👋, I'm Fahim</h1>
 <h3 align="center">A Junior Mern Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanabdullahfahim&label=Profile%20views&color=0e75b6&style=flat" alt="salmanabdullahfahim" /> </p>
 
-- 🌱 I’m currently learning **NextJs,Redux,MySQL,C++,DSA**
+- 🌱 I’m currently learning **NextJs,Redux,C++,DSA**
 
 - 💬 Ask me about **Javascript, React, Express Js**
 
