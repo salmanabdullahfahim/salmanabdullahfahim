@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJs,AWS,C++,DSA**
 
-- 💬 Ask me about **Javascript, React, NextJs, Express Js, MongoDB**
+- 💬 Ask me about **Javascript, React, NextJs**
 
 - 📫 How to reach me **salmanabdullah0304@gmail.com**
 
