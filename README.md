@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Salman Abdullah Fahim</h1>
-<h3 align="center">Junior Mern Stack developer</h3>
+<h3 align="center">Junior Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanabdullahfahim&label=Profile%20views&color=0e75b6&style=flat" alt="salmanabdullahfahim" /> </p>
 
 - 🌱 I’m currently learning **NextJs,AWS,C++,DSA**
 
-- 💬 Ask me about **Javascript, React, NextJs**
+- 💬 Ask me about **Javascript, React, NextJs, Express.js**
 
 - 📫 How to reach me **salmanabdullah0304@gmail.com**
 
