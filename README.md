@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
 
-- 🌱 I’m currently learning **NextJs,AWS,C++,DSA**
+- 🌱 I’m currently learning **NextJs,PostgreSQL,C++,DSA**
 
 - 💬 Ask me about **Javascript, React, NextJs, Express.js**
 
